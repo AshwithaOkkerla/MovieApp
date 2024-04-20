@@ -1,0 +1,2 @@
+# MovieApp
+Using vanilla Javascript
